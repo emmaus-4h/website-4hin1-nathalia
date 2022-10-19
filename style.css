@@ -12,6 +12,7 @@ body * {
 }
 
 
+
 .logo {
   width: 470px;
   
@@ -20,11 +21,11 @@ body * {
 header, footer {                 
   margin: 10px 0px;
   text-align: center;
-  color
+
 }
 
 main {                       
-         
+      color:#23231f   
 }
 
 
@@ -47,12 +48,11 @@ nav ul {
     padding: 0;
     background-color: #dddddd;
     overflow: hidden;
-   list-style-type: none
   
 }
 
 nav ul li {
-  float:left
+  float:left;
  
 }
 
@@ -62,11 +62,24 @@ nav li a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-     list-style-type: none
-  margin:0
-  padding:0
+     list-style-type: none;
+  margin:0;
+
 }
 
-  .totoro-title {
-    
-  }
+
+
+.ponyo {
+  color:#4a64a1;
+  text-align:center;
+}
+
+.ponyobody {
+  background-color:#78a7d3
+}
+
+.ponyocover {
+  height: 500px
+
+
+}
