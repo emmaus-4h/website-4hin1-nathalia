@@ -14,7 +14,7 @@ body * {
 
 
 .logo {
-  width: 470px;
+  width: 390px;
   
 }       
 
@@ -83,5 +83,11 @@ nav li a {
 }
 
 .totorobody {
-  background-color:#1a65c1
+  background-color:#6d7278
 }
+
+.homepagetitle {
+  text-align:center;
+  
+}
+
