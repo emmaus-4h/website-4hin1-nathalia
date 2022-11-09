@@ -47,7 +47,7 @@ nav ul {
     margin: auto;
     padding: 0;
     background-color: #dddddd;
-    overflow: hidden;
+    overflow: auto;
   
 }
 
@@ -91,3 +91,17 @@ nav li a {
   
 }
 
+.logo {
+  float:right;
+  width:450px;
+  padding-left:15px
+  
+} 
+
+.text1 {
+  float:left;
+  width: 375px;
+  height: 300px;
+  text-align: justify;
+  overflow: scroll;
+}
