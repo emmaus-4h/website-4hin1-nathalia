@@ -11,7 +11,9 @@ body * {
   margin: 0px;                   
 }
 
-
+div {
+  border:solid 2px red;
+}
 
 .logo {
   width: 390px;
@@ -35,7 +37,7 @@ main {
     font-size: 0.7em;
 }
 
-
+/* navigatie voor alle pagina's */
 a:hover {
     text-decoration: underline;
 }
@@ -68,7 +70,7 @@ nav li a {
 }
 
 
-
+/* layout voor ... */
 .ponyo {
   color:#4a64a1;
   text-align:center;
@@ -86,6 +88,7 @@ nav li a {
   background-color:#6d7278
 }
 
+/* layout voor homepage */
 .homepagetitle {
   text-align:center;
   
@@ -93,14 +96,36 @@ nav li a {
 
 .logo {
   float:right;
-  width:400px;
+  width:600px;
   padding-left:15px
-  
 } 
+
+.logo img { /* plaatje in een .logo */
+  width: 100%;
+}
 
 .text1 {
  float: left;
-  
+width:calc( 100% - 600px );
   
 
 }
+
+.history {
+  float:left;
+  width:600px;
+  padding-right:15px;
+}
+
+
+.history img {
+width:100%
+}  
+
+.text2 {
+ float: left;
+width:calc( 100% - 600px );
+}
+
+.museum {\}
+  
