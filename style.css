@@ -1,7 +1,7 @@
 
 html, body {                     
   margin: 0px;                  
-  background-color: #EEEEEE;  
+  background-color: #ddc9ac;  
   color: #303030;              
 }  
 
@@ -48,7 +48,7 @@ nav ul {
     list-style-type: none;
     margin: auto;
     padding: 0;
-    background-color: #dddddd;
+    background-color: #dedede;
     overflow: auto;
   
 }
@@ -93,10 +93,10 @@ nav li a {
   text-align:center;
   
 }
-.links {
+.left {
   float:left;
 }
-.rechts {
+.right {
   float:right;
 }
 .logo {
@@ -115,7 +115,6 @@ width:calc( 100% - 600px )
 }
 
 .history {
-  float:left;
   width:600px;
   padding-right:15px;
 }
@@ -127,12 +126,13 @@ width:100%
 
 
 .museum {
-  float:right;
   width:500px;
   padding-right:15px;
   
 }
 
 
- 
+ totorotitle {
+   text-align:left;
+ }
 
