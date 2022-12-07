@@ -93,9 +93,13 @@ nav li a {
   text-align:center;
   
 }
-
-.logo {
+.links {
+  float:left;
+}
+.rechts {
   float:right;
+}
+.logo {
   width:600px;
   padding-left:15px
 } 
@@ -104,9 +108,8 @@ nav li a {
   width: 100%;
 }
 
-.text1 {
- float: left;
-width:calc( 100% - 600px );
+.text0 {
+width:calc( 100% - 600px )
   
 
 }
@@ -122,10 +125,14 @@ width:calc( 100% - 600px );
 width:100%
 }  
 
-.text2 {
- float: left;
-width:calc( 100% - 600px );
+
+.museum {
+  float:right;
+  width:500px;
+  padding-right:15px;
+  
 }
 
-.museum {\}
-  
+
+ 
+
