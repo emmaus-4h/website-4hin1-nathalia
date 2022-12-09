@@ -110,7 +110,6 @@ nav li a {
 
 .text0 {
 width:calc( 100% - 600px )
-  
 
 }
 
@@ -136,3 +135,6 @@ width:100%
    text-align:left;
  }
 
+.totoromovie {
+  width:600px;
+}
