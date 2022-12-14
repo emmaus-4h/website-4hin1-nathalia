@@ -16,7 +16,7 @@ div {
 }
 
 .logo {
-  width: 390px;
+  width: 600px;
   
 }       
 
@@ -70,7 +70,7 @@ nav li a {
 }
 
 
-/* layout voor ... */
+/* layout voor ponyo */
 .ponyo {
   color:#4a64a1;
   text-align:center;
@@ -84,9 +84,6 @@ nav li a {
   height: 500px
 }
 
-.totorobody {
-  background-color:#6d7278
-}
 
 /* layout voor homepage */
 .homepagetitle {
@@ -99,30 +96,22 @@ nav li a {
 .right {
   float:right;
 }
-.logo {
-  width:600px;
-  padding-left:15px
-} 
 
-.logo img { /* plaatje in een .logo */
+.logo img {
   width: 100%;
 }
 
 .text0 {
 width:calc( 100% - 600px )
-
-}
-
-.history {
-  width:600px;
-  padding-right:15px;
 }
 
 
-.history img {
-width:100%
-}  
 
+
+
+ .img600 {
+   width:600;
+ }
 
 .museum {
   width:450px;
@@ -130,11 +119,33 @@ width:100%
   
 }
 
+.museumpic {
+  width:575px;
+}
+
+
+/* totoro layout */
+
+.totorobody {
+  background-color:#6d7278
+}
 
  totorotitle {
    text-align:left;
  }
 
 .totoromovie {
+  width:400px;
+}
+
+.text1 {
+width:calc( 100% - 400px )
+  
+}
+
+.totoromaking {
   width:600px;
+}
+.totoro {
+  text-align:center;
 }
