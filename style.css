@@ -138,14 +138,27 @@ width:calc( 100% - 600px )
   width:400px;
 }
 
+
+
 .text1 {
 width:calc( 100% - 400px )
   
 }
 
-.totoromaking {
-  width:600px;
+
+.totorostoryline {
+  width:600px; 
 }
+
 .totoro {
   text-align:center;
+}
+
+.text2 {
+  font-size:20px;
+}
+
+
+.ultotoro {
+  list-style-type:circle;
 }
