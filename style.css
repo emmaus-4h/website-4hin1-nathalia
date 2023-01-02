@@ -12,8 +12,9 @@ body * {
 }
 
 div {
-  bordr:solid 2px red;
+  border:solid 2px red;
 }
+
 
 .logo {
   width: 600px;
@@ -105,9 +106,14 @@ nav li a {
 width:calc( 100% - 600px )
 }
 
+.text3 {
+  width:calc( 100% - 450px )
 
+}
 
-
+.big {
+  font-size:18px;
+}
 
  .img600 {
    width:600;
@@ -161,4 +167,8 @@ width:calc( 100% - 400px )
 
 .ultotoro {
   list-style-type:circle;
+}
+
+.desc {
+  font-size:20px
 }
