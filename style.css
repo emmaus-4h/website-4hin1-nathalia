@@ -1,7 +1,7 @@
 
 html, body {                     
   margin: 0px;                  
-  background-color: #ddc9ac;  
+  background-color: #e1d2bc;  
   color: #303030;              
 }  
 
@@ -12,7 +12,7 @@ body * {
 }
 
 div {
-  border:solid 2px red;
+  bordr:solid 2px red;
 }
 
 .logo {
@@ -27,7 +27,7 @@ header, footer {
 }
 
 main {                       
-      color:#23231f   
+      color:#0a0a0a   
 }
 
 
@@ -150,7 +150,7 @@ width:calc( 100% - 400px )
   width:600px; 
 }
 
-.totoro {
+.title {
   text-align:center;
 }
 
