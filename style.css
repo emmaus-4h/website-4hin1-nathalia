@@ -98,6 +98,9 @@ nav li a {
   float:right;
 }
 
+.center {
+  text-align:center; 
+}
 .logo img {
   width: 100%;
 }
@@ -136,7 +139,7 @@ width:calc( 100% - 600px )
   background-color:#6d7278
 }
 
- totorotitle {
+ subtitle {
    text-align:left;
  }
 
@@ -183,3 +186,4 @@ div.gallery {
 div.gallery img {
   width: 100%;
   height: auto;
+
