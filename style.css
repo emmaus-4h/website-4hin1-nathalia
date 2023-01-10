@@ -11,9 +11,7 @@ body * {
   margin: 0px;                   
 }
 
-div {
-  border:solid 2px red;
-}
+
 
 
 .logo {
@@ -187,3 +185,4 @@ div.gallery img {
   width: 100%;
   height: auto;
 }
+
